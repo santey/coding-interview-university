@@ -1091,7 +1091,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] [HTTP (video)](https://www.youtube.com/watch?v=WGJrLqtX7As)
     - [X] [SSL and HTTPS (video)](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
     - [X] [SSL/TLS (video)](https://www.youtube.com/watch?v=Rp3iZUvXWlM)
-    - [ ] [HTTP 2.0 (video)](https://www.youtube.com/watch?v=E9FxNzv1Tr8)
+    - [X] [HTTP 2.0 (video)](https://www.youtube.com/watch?v=E9FxNzv1Tr8)
     - [ ] [Video Series (21 videos) (video)](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
     - [ ] [Subnetting Demystified - Part 5 CIDR Notation (video)](https://www.youtube.com/watch?v=t5xYI0jzOf4)
     - [ ] Sockets:
